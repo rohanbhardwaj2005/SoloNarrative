@@ -7,6 +7,8 @@ export default async function BlogDetailsPage({ params }) {
   const blogSlug = params.slug;
   const blogItem = await getBlogsItem(blogSlug);
 
+  const formattedContent = blogItem.content.replace(/\n/g, "<br />");
+
   if (!blogItem) {
     notFound();
   }
@@ -20,7 +22,7 @@ export default async function BlogDetailsPage({ params }) {
         <h1>{blogItem.title}</h1>
         <time dateTime={blogItem.date}>{blogItem.date}</time>
       </header>
-      <p>{blogItem.content}</p>
+      <p dangerouslySetInnerHTML={{ __html: formattedContent }} />
     </article>
   );
 }

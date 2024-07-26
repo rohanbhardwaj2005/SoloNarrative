@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+
 import { Suspense } from "react";
 
 import BlogsList from "@/components/blogs-list";

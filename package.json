@@ -6,34 +6,18 @@
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {
-    "better-sqlite3": "^11.1.2",
-    "busboy": "^1.6.0",
-    "caniuse-lite": "^1.0.30001643",
-    "client-only": "^0.0.1",
-    "graceful-fs": "^4.2.11",
-    "js-tokens": "^4.0.0",
-    "loose-envify": "^1.4.0",
-    "nanoid": "^3.3.7",
-    "next": "^14.1.0",
-    "picocolors": "^1.0.1",
-    "postcss": "^8.4.31",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "scheduler": "^0.23.2",
-    "source-map-js": "^1.2.0",
-    "streamsearch": "^1.1.0",
-    "styled-jsx": "^5.1.1",
-    "tslib": "^2.6.3"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "next dev",
+    "start": "next start",
     "build": "next build",
-    "export": "next export",
-    "start": "next start"
+    "dev": "next dev"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^11.1.2",
+    "next": "^14.2.5",
+    "react-icons": "^5.2.1"
+  }
 }
