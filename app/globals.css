@@ -105,6 +105,12 @@ ul {
   background-color: #e5e5e1;
 }
 
+#go-back a:hover,
+#go-back a.active {
+  background-color: #bcbcb7;
+  color: #181817;
+}
+
 .news-list {
   display: grid;
   gap: 1rem;

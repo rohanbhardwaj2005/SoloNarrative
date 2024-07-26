@@ -79,7 +79,13 @@ export default async function FilteredBlogsPage({ params }) {
       <Suspense fallback={<p>Loading filter...</p>}>
         <FilterHeader year={selectedYear} month={selectedMonth} />
       </Suspense>
-      
+      <div id="main-header">
+        <ul>
+          <li>
+            
+          </li>
+        </ul>
+      </div>
       <Suspense fallback={<p>Loading blogs for the selected period...</p>}>
         <FilteredBlogs year={selectedYear} month={selectedMonth} />
       </Suspense>
