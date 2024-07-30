@@ -15,7 +15,11 @@ export default async function InterceptedImagePage({ params }) {
       <ModalBackDrop />
       <dialog className="modal" open>
         <div className="fullscreen-image">
-          <img src={`/images/news/${blogItem.image}`} alt={blogItem.title} />
+          <img
+            src={`/images/news/${blogItem.image}`}
+            style={{ position: relative }}
+            alt={blogItem.title}
+          />
         </div>
       </dialog>
     </>

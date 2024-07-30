@@ -104,6 +104,107 @@ const BLOGS_DATA = [
 
     Waiting with bated breath.  Fingers crossed🤞🤞`,
   },
+  {
+    id: "n6",
+    slug: "india-world-cup-final-loss",
+    title: "Heartbreak in the World Cup Final: A Cricket Fan’s Lament",
+    image: "india-world-cup-loss.png",
+    date: "2023-11-19",
+    content: `Hello fellow cricket lovers. Today, I write with a heavy heart, sharing the sorrow and disappointment of India’s loss to Australia in the 2023 Cricket World Cup final.
+
+  The journey to the final was filled with hope and excitement. Under the leadership of Rohit Sharma, the Indian team showcased remarkable skill and determination throughout the tournament. Every match was a testament to their hard work and dedication, making us believe that this was our year.
+
+  The semi-final against New Zealand was a nail-biter. Virat Kohli's brilliant century and Jasprit Bumrah's exceptional bowling in the death overs led us to a thrilling victory, setting the stage for an epic final against Australia. The anticipation was palpable, and fans across the nation were united in their support for the team.
+
+  The final, however, was a different story. Batting first, India struggled to build momentum after the fall of Rohit Sharma's wicket and posted a modest total of 241. Despite a valiant effort from the bowlers, Australia's batting lineup helmed by Travis Head proved too strong, and they chased down the target with ease. The sight of the Australian team lifting the trophy was a bitter pill to swallow.
+
+  This loss is not just about the defeat; it's about the dreams that were shattered and the hopes that were dashed. It's a reminder of the unpredictability of cricket and the fine margins that separate victory from defeat. As fans, we feel the pain and disappointment, but we also stand by our team, proud of their efforts and the journey they undertook.
+
+  As a cricket fan, this loss is incredibly hard to accept. It brings back memories of past heartbreaks but also strengthens our resolve to support the team through thick and thin. The emotions, the tears, and the sense of loss are indescribable. The sight of the Indian team walking off the field, heads held high despite the defeat, is a moment that will stay with us forever.
+
+  Here's to the Indian cricket team for their valiant effort, for giving us moments of joy and hope, and for reminding us of the beauty and heartbreak of the game. Let's stand together, support our team, and look forward to future victories. Jai Hind! 🇮🇳🏏`,
+  },
+  {
+    id: "n7",
+    slug: "the-ashes",
+    title: "The Ashes",
+    image: "ashes-trophy.jpg",
+    date: "2024-07-01",
+    content: `Hello fellow cricket enthusiasts! Today, I want to share my excitement about one of the most storied and thrilling contests in the world of cricket—the Ashes Test series.
+
+    The Ashes series, a five-match Test cricket competition between England and Australia, is a rivalry that dates back to 1882. It all began when Australia defeated England at The Oval, leading a British newspaper to publish a satirical obituary lamenting the death of English cricket and stating that "the body will be cremated and the ashes taken to Australia." Thus, the legend of the Ashes was born, symbolized by a small urn that is believed to contain the ashes of a cricket bail.
+
+    Over the years, the Ashes has seen some of the most remarkable and dramatic moments in cricket history. One of the earliest legendary contests was in 1932-33, known as the "Bodyline" series, where England employed controversial bowling tactics to counter the formidable Australian batsman, Sir Don Bradman. The strategy worked, but it sparked heated debates and strained relations between the two nations.
+
+    Fast forward to 1981, and we have the unforgettable "Botham's Ashes." After being forced to follow on, England, led by Ian Botham's heroic all-round performances and Bob Willis's devastating bowling, staged an incredible comeback to win the third Test at Headingley. This victory turned the series around, and England went on to win the Ashes that year.
+
+    In more recent times, the 2005 Ashes series is often hailed as one of the greatest of all time. England, under the captaincy of Michael Vaughan and with standout performances from players like Andrew Flintoff and Kevin Pietersen, won the series 2-1, regaining the Ashes after 18 years. The series was marked by intense matches, narrow margins, and moments of individual brilliance.
+
+    The 2019 Ashes also provided cricket fans with unforgettable moments. Who could forget Ben Stokes's extraordinary innings at Headingley, where he single-handedly led England to a miraculous victory, keeping their hopes alive in the series?
+
+    Each Ashes series is not just about the cricket; it's about the rich history, the fierce rivalry, and the incredible passion of the fans. The battles on the field, the sportsmanship, and the moments of brilliance make the Ashes a unique and cherished part of cricketing folklore.
+
+    As we gear up for the next installment of this historic contest which is to be held next year, I can hardly contain my excitement. Will Australia retain the urn, or will England reclaim it? Whatever happens, we can be sure that the Ashes will continue to deliver the drama, excitement, and unforgettable moments that have made it a cornerstone of the sport. 🏏🔥
+
+    Here's to another thrilling chapter in the Ashes saga. Let the games begin!`,
+  },
+  {
+    id: "n8",
+    slug: "world-champions-india",
+    title: "India's Triumphant T20 World Cup Victory After 17 Years",
+    image: "india-t20-champions.png",
+    date: "2024-06-29",
+    content: `Hello cricket fans! Today, I am overjoyed to share the exhilarating news of India's remarkable victory in the T20 World Cup after a long wait of 17 years as today we ended the drought of almost a decade for an ICC trophy and clinched the T20 World Cup unbeaten. As a die-hard fan, this triumph is nothing short of a dream come true.
+
+        It was in 2007 when India first tasted T20 World Cup glory under the inspirational leadership of MS Dhoni. That victory was a watershed moment for Indian cricket, propelling the team into the global spotlight and igniting a passion for the shortest format of the game among millions of fans. Fast forward to 2024, and India has done it again, capturing the coveted trophy and etching their names in cricketing history once more.
+
+        The journey to this victory was nothing short of spectacular. Under the captaincy of Rohit Sharma, the team displayed exceptional skill, resilience, and teamwork despite coming off a huge upset in their last ICC outing against Australia. The group stages saw some nail-biting encounters especially with the arch rivals Pakistan where Jasprit Bumrah saved the day, but India's consistent performances ensured they topped their group and advanced to the knockout stages with confidence.
+
+        The semi-final clash against a formidable England side was a testament to India's grit and determination. Stellar performances from the likes of Rohit Sharma and Suryakumar Yadav, who played a match-winning knock, and Jasprit Bumrah, whose deadly yorkers dismantled the English batting lineup yet again, secured India a place in the final.
+
+        The final against South Africa at Barbados was a showdown that had fans on the edge of their seats. Batting first despite losing quick wickets of Hitman and Pant, India posted a challenging total of 177, thanks to a brilliant innings by King Kohli, who anchored the innings with his composed yet aggressive batting. The bowlers then took center stage, with Jasprit Bumrah and Hardik Pandya delivering crucial breakthroughs. Soon, the final over came where South Africa needed 16 to clinch their first ever ICC trophy and Killer Miller was on strike, the ball was given to Hardik Pandya who rose up to the occasion once again and courtesy a brilliant catch by SKY, removed Miller of the very first ball of the final over. In a thrilling finish, India held their nerve and clinched victory, sparking celebrations across the nation.
+
+        This triumph is a testament to the evolution of Indian cricket over the past decade and a half. It reflects the hard work and dedication of the players, the strategic acumen of the coaching staff, and the unwavering support of the fans. It also highlights the depth of talent in Indian cricket, with young players stepping up and making significant contributions on the global stage.
+
+        For fans like me, this victory is more than just a trophy; it's a moment of immense pride and joy. It brings back memories of 2007 and adds a new chapter to our cricketing folklore. The sight of the players lifting the trophy, the sound of the crowd chanting, and the emotions running high are moments that we will cherish forever.
+
+        As we bask in the glory of this incredible achievement, let's celebrate the spirit of cricket and the unity it brings to our diverse nation. Here's to the heroes who made it possible and to the countless fans who never stopped believing. Jai Hind! 🇮🇳🏆🎉`,
+  },
+  {
+    id: "n9",
+    slug: "bgt-2024",
+    title:
+      "Excitement Builds for the Border-Gavaskar Trophy: A Look Ahead to December 2024",
+    image: "border-gavaskar-trophy.png",
+    date: "2024-07-30",
+    content: `Hello cricket aficionados! With the Border-Gavaskar Trophy just around the corner in December 2024, the excitement is reaching fever pitch. This iconic Test series between India and Australia is always a spectacle, and this upcoming edition promises to be nothing short of thrilling.
+
+        The Border-Gavaskar Trophy has a storied history of intense cricketing battles and unforgettable moments. From the dramatic series in 2001, when India famously came back from a follow-on to win at Kolkata, to the incredible 2021 series where Australia’s young brigade overcame numerous challenges, this rivalry has consistently delivered edge-of-the-seat cricket.
+
+        As we gear up for the December 2024 series, there are several factors that add to the anticipation. Both teams have a mix of experienced stars and promising young talents, which makes for a fascinating contest. 
+
+        **India's Young Guns**
+
+        For India, there is a lot of buzz around the young players who could make a significant impact. Shubman Gill has already made a name for himself with his consistent performances and stylish batting. His ability to adapt to different conditions will be crucial in the series. Another exciting prospect is Yashasvi Jaiswal, whose aggressive batting style and knack for scoring big runs could prove to be a game-changer.
+
+        Additionally, the rise of players like Arshdeep Singh and Mohammed Siraj in the pace department adds depth to the Indian bowling attack. Their ability to generate pace and swing will be key in challenging the Australian batsmen.
+
+        **Australia's Promising Prospects**
+
+        On the Australian side, the emergence of young players like Cameron Green and Marcus Harris has added a new dimension to their squad. Green’s all-round capabilities make him a vital asset, both with the bat and ball. Meanwhile, Harris’s solid technique and determination could pose a challenge for the Indian bowlers.
+
+        The young Australian spinner, Tanveer Sangha, is another name to watch out for. His variation and control could test the Indian batsmen in the subcontinent conditions.
+
+        **What to Expect**
+
+        The December series is expected to be a high-octane affair with plenty of competitive cricket. Both teams will be keen to assert their dominance and secure bragging rights. The conditions will play a significant role, and adaptability will be crucial. Indian pitches often favor spin, while Australian conditions can be more pace-friendly. 
+
+        Fans can look forward to a series filled with skillful performances, tactical battles, and perhaps a few surprises. The clash between India’s young talents and Australia’s emerging stars will be a highlight, as these players look to make their mark on the international stage.
+
+        As a cricket fan, the anticipation is palpable, and the excitement is building. The Border-Gavaskar Trophy has always been a platform for memorable cricketing moments, and this series is set to add another chapter to its illustrious history. Here’s to hoping for a competitive, thrilling series and some standout performances from the next generation of cricketing stars! 🏏🔥
+
+        Stay tuned and keep your cricketing spirits high as we count down to December. The battle for the Border-Gavaskar Trophy is about to begin!`,
+  },
 ];
 
 const db = sqlite("data.db");
