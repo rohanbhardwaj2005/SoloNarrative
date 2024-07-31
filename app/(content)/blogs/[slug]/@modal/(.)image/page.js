@@ -17,7 +17,7 @@ export default async function InterceptedImagePage({ params }) {
         <div className="fullscreen-image">
           <img
             src={`/images/news/${blogItem.image}`}
-            style={{ position: relative }}
+            style={{ position: "relative" }}
             alt={blogItem.title}
           />
         </div>
